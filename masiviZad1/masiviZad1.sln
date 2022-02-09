@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masiviZad1", "masiviZad1\masiviZad1.csproj", "{C2CFDF68-5F69-4052-B954-C8BE330B80CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masiviZad1.1", "masiviZad1.1\masiviZad1.1.csproj", "{07D59554-1ADC-4702-8156-A16EB4D37BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2CFDF68-5F69-4052-B954-C8BE330B80CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CFDF68-5F69-4052-B954-C8BE330B80CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CFDF68-5F69-4052-B954-C8BE330B80CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CFDF68-5F69-4052-B954-C8BE330B80CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D59554-1ADC-4702-8156-A16EB4D37BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D59554-1ADC-4702-8156-A16EB4D37BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D59554-1ADC-4702-8156-A16EB4D37BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D59554-1ADC-4702-8156-A16EB4D37BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F3247A-7BE3-4EA0-AAE8-AF34964ED026}
+	EndGlobalSection
+EndGlobal

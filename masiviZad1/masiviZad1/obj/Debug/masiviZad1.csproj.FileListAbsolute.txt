@@ -1,0 +1,7 @@
+D:\school coding\c#\masiviZad1\masiviZad1\bin\Debug\masiviZad1.exe.config
+D:\school coding\c#\masiviZad1\masiviZad1\bin\Debug\masiviZad1.exe
+D:\school coding\c#\masiviZad1\masiviZad1\bin\Debug\masiviZad1.pdb
+D:\school coding\c#\masiviZad1\masiviZad1\obj\Debug\masiviZad1.csprojAssemblyReference.cache
+D:\school coding\c#\masiviZad1\masiviZad1\obj\Debug\masiviZad1.csproj.CoreCompileInputs.cache
+D:\school coding\c#\masiviZad1\masiviZad1\obj\Debug\masiviZad1.exe
+D:\school coding\c#\masiviZad1\masiviZad1\obj\Debug\masiviZad1.pdb
