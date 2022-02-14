@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "omwKH6qfQC53xGEAUBbcA0uL4TctMF3Eqeny8OZwJbzNkldvvvlxwXmX/g+221KZMnIjwAJlxvrMIipMuQ5MTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Documents\\martin petrov\\programi\\Podgotovka\\Podgotovka\\Podgotovka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\coreclr-ncalc\\2.2.92\\coreclr-ncalc.2.2.92.nupkg.sha512"
+  ],
+  "logs": []
+}
