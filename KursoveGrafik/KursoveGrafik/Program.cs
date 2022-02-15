@@ -43,12 +43,16 @@ namespace KursoveGrafik
                 if (input[0] == "Remove" && subjects.Contains(input[1]))
                 {
                     subjects.Remove(input[1]);
+                    if (subjects.Contains(input[1] + "- Excercise"))
+                    {
+                        subjects.Remove(input[1] + "- Excercise");
+                    }
                 }
 
 
                 
 
-                if (input[0] == "Excercise")
+                if (input[0] == "Exercise")
                 {
                     if (subjects.Contains(input[1]))
                     { 
@@ -84,45 +88,34 @@ namespace KursoveGrafik
                             int lessonE = subjects.IndexOf(input[1] + "- Excercise");
                             int secondLesson = subjects.IndexOf(input[2]);
 
+
+                            //l le s
+
+
+
                             string temp = subjects[lesson];
-
-                            subjects[lesson] = subjects[secondLesson];
-
-                            subjects[secondLesson] = temp;
-
-                            // t te r
-                            //r t te
-
-
-                            string tempE = subjects[lesson];
-
-                            subjects[lesson] = subjects[lessonE];
-
-                            subjects[lessonE] = tempE;
-
-
-
+                            subjects[lesson] = subjects[secondLesson]; //l =s le s
+                            subjects[secondLesson] = subjects[lessonE];
+                            subjects[lessonE] = temp;
+                            
                         }
 
                         if (subjects.Contains(input[2] + "- Excercise"))
                         {
-                            int t = subjects.IndexOf(input[2]);
-                            int te = subjects.IndexOf(input[2] + "- Excercise");
-                            int r = subjects.IndexOf(input[1]);
+                            int lesson = subjects.IndexOf(input[2]);
+                            int lessonE = subjects.IndexOf(input[2] + "- Excercise");
+                            int secondLesson = subjects.IndexOf(input[1]);
 
-                            //r t te
+                            //second , L , LE
+                            string temp = subjects[lesson];
+                            string temp2 = subjects[secondLesson];
+                            subjects[lesson] = subjects[lessonE];
+                            subjects[secondLesson] = temp;
+                            subjects[lessonE] = temp2;
 
-                            //t r te
-                            string temp = subjects[r];
-                            subjects[r] = subjects[t];
-                            subjects[t] = temp;
-
-                            //t r te
-                            //t te r
-
-                            string temp2 = subjects[r];
-                            subjects[r] = subjects[te];
-                            subjects[te] = temp2;
+                            
+                            
+                            
                         }
                     }
                 }

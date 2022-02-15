@@ -11,3 +11,17 @@ C:\Users\Student\Documents\martin petrov\programi\KursoveGrafik\KursoveGrafik\ob
 C:\Users\Student\Documents\martin petrov\programi\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.dll
 C:\Users\Student\Documents\martin petrov\programi\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.pdb
 C:\Users\Student\Documents\martin petrov\programi\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.genruntimeconfig.cache
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\bin\Debug\netcoreapp3.1\KursoveGrafik.exe
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\bin\Debug\netcoreapp3.1\KursoveGrafik.deps.json
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\bin\Debug\netcoreapp3.1\KursoveGrafik.runtimeconfig.json
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\bin\Debug\netcoreapp3.1\KursoveGrafik.runtimeconfig.dev.json
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\bin\Debug\netcoreapp3.1\KursoveGrafik.dll
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\bin\Debug\netcoreapp3.1\KursoveGrafik.pdb
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.csproj.AssemblyReference.cache
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.AssemblyInfoInputs.cache
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.AssemblyInfo.cs
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.dll
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.pdb
+C:\Users\User\Documents\11b-Upr\KursoveGrafik\KursoveGrafik\obj\Debug\netcoreapp3.1\KursoveGrafik.genruntimeconfig.cache

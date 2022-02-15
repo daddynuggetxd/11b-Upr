@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "shO1fxt2NxYYyUHMEWvIHnxQuo1iJdtFgKLex3theCxNrFzyzxDK6lXViuJx094xg3I8CPbm7H6uouqcbU537w==",
+  "dgSpecHash": "dP0+lLKPMt+/vrU0n6eBcPaGtKDEYhD9l8iZU8+geDMJAcx4Ttu++6xc49ivIEK/Y4y4MywNm3kvHq1yAwEJdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Documents\\martin petrov\\programi\\KursoveGrafik\\KursoveGrafik\\KursoveGrafik.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Documents\\11b-Upr\\KursoveGrafik\\KursoveGrafik\\KursoveGrafik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
