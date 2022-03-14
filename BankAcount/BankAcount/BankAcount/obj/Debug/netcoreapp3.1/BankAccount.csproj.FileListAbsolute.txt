@@ -11,3 +11,16 @@ C:\Users\Student\Documents\martin petrov\programi\BankAcount\BankAcount\obj\Debu
 C:\Users\Student\Documents\martin petrov\programi\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.dll
 C:\Users\Student\Documents\martin petrov\programi\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.pdb
 C:\Users\Student\Documents\martin petrov\programi\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\bin\Debug\netcoreapp3.1\BankAccount.exe
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\bin\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.csprojAssemblyReference.cache
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.dll
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+C:\Users\Student\Documents\11b petrov\11b-upr\11b-Upr\BankAcount\BankAcount\BankAcount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Documents\\martin petrov\\programi\\BankAcount\\BankAcount\\BankAccount.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\11b petrov\\11b-upr\\11b-Upr\\BankAcount\\BankAcount\\BankAcount\\BankAccount.csproj",
       "projectName": "BankAccount",
-      "projectPath": "C:\\Users\\Student\\Documents\\martin petrov\\programi\\BankAcount\\BankAcount\\BankAccount.csproj",
+      "projectPath": "C:\\Users\\Student\\Documents\\11b petrov\\11b-upr\\11b-Upr\\BankAcount\\BankAcount\\BankAcount\\BankAccount.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Documents\\martin petrov\\programi\\BankAcount\\BankAcount\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\11b petrov\\11b-upr\\11b-Upr\\BankAcount\\BankAcount\\BankAcount\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

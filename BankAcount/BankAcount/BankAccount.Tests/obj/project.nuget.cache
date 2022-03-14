@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jM/BeknmSEx6CHov0Ymy1RfY6xMtWaFPLg6+DYt/XsGl1sJzo7CbNb5wR1xEi1fSOykTZ1UoaZWtxDIwIu0W5A==",
+  "dgSpecHash": "j+L+nyJrFpCkky1aXHvYoYR5fhygQDez7eKypnVEnfDw0UDSNmACoInr4ijEdF+fakjPA/NBBakd0K9IIjcoEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Documents\\martin petrov\\programi\\BankAcount\\BankAccount.Tests\\BankAccount.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Documents\\11b petrov\\11b-upr\\11b-Upr\\BankAcount\\BankAcount\\BankAccount.Tests\\BankAccount.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
